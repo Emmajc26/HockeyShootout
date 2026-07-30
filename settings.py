@@ -1,0 +1,22 @@
+# Screen
+WIDTH = 1000
+HEIGHT = 700
+
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+BLUE = (50, 120, 255)
+RED = (220, 50, 50)
+GREEN = (0, 170, 0)
+LIGHT_BLUE = (180, 220, 255)
+
+# Player
+PLAYER_SPEED = 6
+
+# Puck
+PUCK_RADIUS = 10
+
+# Goalie
+GOALIE_SPEED = 5
